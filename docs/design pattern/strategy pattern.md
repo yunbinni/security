@@ -209,6 +209,8 @@ public static void main(String[] args) {
 }
 ```
 
+---
+
 ## "구성(composition)을 이용하다"
 
 "A에는 B가 있다"를 생각해보면,  
