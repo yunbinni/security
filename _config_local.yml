@@ -1,0 +1,14 @@
+title: yunbinni 블로그
+
+url: https://just-the-docs.github.io
+
+aux_links:
+  "yunbinni의 github": https://github.com/yunbinni
+
+heading_anchors: true
+
+mermaid:
+  version: "9.1.6"
+
+theme: just-the-docs
+# remote_theme: just-the-docs/just-the-docs
