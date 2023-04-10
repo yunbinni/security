@@ -7,6 +7,8 @@ parent: 디자인 패턴
 # 전략 패턴(Strategy Pattern)
 {: .no_toc }
 
+변화하는 부분 분리하여 통합하기
+
 ## Table of contents
 {: .no_toc .text-delta }
 
