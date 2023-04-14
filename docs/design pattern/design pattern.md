@@ -22,10 +22,14 @@ has_children: true
 
 4. 상호작용하는 객체 사이에는 가능하면 **느슨한 결합(Loose Coupling)**을 사용해야 한다.
 
+5. 클래스는 **확장에는 열려 있어야 하지만 변경에는 닫혀 있어야 한다.** (OCP - Open-Closed Principle)
+
 
 ## 객체지향 패턴
 
 - 생성
 - 구조
+  - [데코레이터 패턴]
 - 행위
-  - 전략패턴 : 알고리즘군을 정의하고 각각을 캡슐화하여 수정해서 쓸 수 있도록 하는 패턴
+  - [전략 패턴](./strategy%20pattern.html) : 알고리즘군을 정의하고 각각을 캡슐화하여 수정해서 쓸 수 있도록 하는 패턴
+  - [옵저버 패턴](./observer%20pattern/observer%20pattern.html) : 주제(Subject)가 옵저버(Observer)들에게 연락하고, 내용을 갱신하는 패턴
