@@ -29,7 +29,7 @@ has_children: true
 
 - 생성
 - 구조
-  - [데코레이터 패턴]
+  - [데코레이터 패턴](./decorator%20pattern/decorator%20pattern.html) : 특수 래퍼(Wrapper)로 객체를 추가하는 구조 패턴
 - 행위
   - [전략 패턴](./strategy%20pattern.html) : 알고리즘군을 정의하고 각각을 캡슐화하여 수정해서 쓸 수 있도록 하는 패턴
   - [옵저버 패턴](./observer%20pattern/observer%20pattern.html) : 주제(Subject)가 옵저버(Observer)들에게 연락하고, 내용을 갱신하는 패턴
