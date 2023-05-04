@@ -1,4 +1,4 @@
-title: yunbinni 블로그
+title: 정보보안 스터디
 
 url: https://just-the-docs.github.io
 
@@ -9,6 +9,23 @@ heading_anchors: true
 
 mermaid:
   version: "9.1.6"
+
+callouts_level: quiet # or loud
+callouts:
+  highlight:
+    color: yellow
+  important:
+    title: Important
+    color: blue
+  new:
+    title: New
+    color: green
+  note:
+    title: Note
+    color: purple
+  warning:
+    title: Warning
+    color: red
 
 # theme: just-the-docs # 로컬환경에서 개발할 때는 전용 yml 파일로 하는 것이 좋다.
 # https://github.com/just-the-docs/just-the-docs/issues/148#issuecomment-504761189
